@@ -2,10 +2,11 @@
 Making a list of scripts to make an Admin's life easier.
 
 ## Key Principles
+- Output results in a clear, usable format (e.g., CSV).
+- Use modular and reusable code where possible.
 
-- The danger of scripts is noted in the readme.
-  - ### Risk Legend
-    ## Risk Legend
+
+## Scripts Risk Legend
     - 🟢 Safe – Minimal risk (e.g. exporting admin related metadata in bulk)
     - 🟡 Some Risk – low level of risk, e.g. changing settings labels on apps that can affect production
     - 🟠 Moderate Risk – Requires some testing before running in production 
@@ -13,8 +14,8 @@ Making a list of scripts to make an Admin's life easier.
     - ⚫ Critical – Highly impactful, requires thorough review and approval before running (e.g., bulk deletion or environment reset)
     - 🟣 Experimental – New or untested scripts, use in non-production environments only
 
-- Output results in a clear, usable format (e.g., CSV).
-- Use modular and reusable code where possible.
+
+
 
 
 ## Scripts
