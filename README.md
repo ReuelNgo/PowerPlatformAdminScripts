@@ -1,10 +1,9 @@
-# PowerPlatformAdminScripts
+# Power Platform Admin Scripts
 Making a list of scripts to make an Admin's life easier.
 
 ## Key Principles
 - Output results in a clear, usable format (e.g., CSV).
 - Use modular and reusable code where possible.
-
 
 ## Scripts Risk Legend
     - 🟢 Safe – Minimal risk (e.g. exporting admin related metadata in bulk)
@@ -13,10 +12,6 @@ Making a list of scripts to make an Admin's life easier.
     - 🔴 Dangerous – Makes changes to apps, environments or users, use with caution and understand fully!
     - ⚫ Critical – Highly impactful, requires thorough review and approval before running (e.g., bulk deletion or environment reset)
     - 🟣 Experimental – New or untested scripts, use in non-production environments only
-
-
-
-
 
 ## Scripts
 
